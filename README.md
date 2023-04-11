@@ -12,6 +12,10 @@
 - **Auxiliar Designer Gráfico** – Perfil Etiquetas – 01/2011 a 06/2012
 
 ## CURSOS E BOOTCAMPS
+-	**Bootcamp Kotlin - Backend Developer** – Plataforma Digital Innovation One
+    - Orientação a Objetos e Tipos de Classes na Prática com Kotlin 
+    - Tratamento de Exceções em Kotlin
+    - Criando uma API com Kotlin e Persistência de Dados
 -	**Desenvolvimento de Aplicativos Android usando Kotlin** – Instrutor Gabriel Ferrari Ceron (Plataforma Udemy)
 -	**Java Completo Programação Orientada a Objetos + Projetos** – Instrutor Nelio Alves (Plataforma Udemy)
 -	**Java e Orientação a Objetos** – Plataforma Alura (Programa Oracle Next Education)
@@ -34,6 +38,14 @@
 
 
 ## CERTIFICADOS
+
+![BootCamp TQI Kotlin](https://user-images.githubusercontent.com/66476979/231254178-b564f014-cba2-44fb-9c28-cd52b91fa902.png)
+![Orientação a Objetos e Tipos de Classes na Prática com Kotlin](https://user-images.githubusercontent.com/66476979/231254233-51c317ef-b623-4f82-a5b5-51979dbeafd9.png)
+![Tratamento de Exceções em Kotlin](https://user-images.githubusercontent.com/66476979/231254243-45ec5e79-f814-415b-9e6d-489c90ebcddb.png)
+![Criando uma API com Kotlin e Persistência de Dados](https://user-images.githubusercontent.com/66476979/231253216-d25b6dc4-ff8e-4dbb-b2c1-cae49d73de8f.png)
+
+---
+---
 
 ![Desenvolvimento de Aplicativos Android usando Kotlin](https://user-images.githubusercontent.com/66476979/219037226-f0103aa7-3dc2-400b-bb2a-31812aac3452.jpg)
 
