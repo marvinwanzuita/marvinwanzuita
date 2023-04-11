@@ -8,8 +8,11 @@
 
 ## EXPERIÊNCIA
 - **Impressor** – Molayne Artes – 03/2017 a 12/2020
+    - Responsável por operar impressora gráfica
+    - Responsável por editar imagens e catálogos
+    - Responsável por atender clientes e vendedores
 -	**Impressor** – Recopy Comunicação Visual – 06/2012 a 11/2015
-- **Auxiliar Designer Gráfico** – Perfil Etiquetas – 01/2011 a 06/2012
+    -	Responsável por operar impressora gráfica
 
 ## CURSOS E BOOTCAMPS
 -	**Bootcamp Kotlin - Backend Developer** – Plataforma Digital Innovation One
@@ -34,8 +37,10 @@
     - Introdução a criação de websites com HTML5 e CSS3
 -	**Fundamentos para Desenvolvimento de Software** –  Microsoft e LinkedIn
 
+## EXERCÍCIOS DE PROGRAMAÇÃO
+Imagem do meu [perfil do site Beecrowd](https://www.beecrowd.com.br/judge/pt/users/statistics/560070) com as estatísticas relacionadas ao meu desempenho.
 
-
+![Estatisticas 2023-04-11 152625](https://user-images.githubusercontent.com/66476979/231255797-1c3bbc82-976c-44c5-b75c-2fa3c4f244cb.png)
 
 ## CERTIFICADOS
 
