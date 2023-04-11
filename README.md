@@ -5,14 +5,11 @@
   
 ## FORMAÇÃO
 - **Tecnologia em Análise e Desenvolvimento de Sistema** – Senac EAD – Incompleto
-- **Tecnologia em Design Gráfico** – Unidavi - Incompleto
 
 ## EXPERIÊNCIA
 - **Impressor** – Molayne Artes – 03/2017 a 12/2020
 -	**Impressor** – Recopy Comunicação Visual – 06/2012 a 11/2015
 - **Auxiliar Designer Gráfico** – Perfil Etiquetas – 01/2011 a 06/2012
--	**Cadastrador Imobiliário** – Coliseu Assessoria – 01/2008 a 02/2010
--	**Vidraceiro** – Arte e Quadros – 03/2005 a 10/2007
 
 ## CURSOS E BOOTCAMPS
 -	**Desenvolvimento de Aplicativos Android usando Kotlin** – Instrutor Gabriel Ferrari Ceron (Plataforma Udemy)
