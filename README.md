@@ -15,6 +15,7 @@
     -	Responsável por operar impressora gráfica
 
 ## CURSOS E BOOTCAMPS
+-	**Java e Spring Boot** – Plataforma Alura (Programa Oracle Next Education)
 -	**Bootcamp Kotlin - Backend Developer** – Plataforma Digital Innovation One
     - Orientação a Objetos e Tipos de Classes na Prática com Kotlin 
     - Tratamento de Exceções em Kotlin
@@ -31,10 +32,6 @@
     - Programação Orientada a Objetos
     - Trabalhando com Collections Java
     - Tratamento de Exceções em Java
--	**HTML Web Developer** – Plataforma Digital Innovation One
-    - Javascript ES6 Essencial
-    - Desenvolvimento Avançado com Javascript ES6
-    - Introdução a criação de websites com HTML5 e CSS3
 -	**Fundamentos para Desenvolvimento de Software** –  Microsoft e LinkedIn
 
 ## EXERCÍCIOS DE PROGRAMAÇÃO
@@ -44,6 +41,7 @@ Imagem do meu [perfil do site Beecrowd](https://www.beecrowd.com.br/judge/pt/use
 
 ## CERTIFICADOS
 
+![Java e Spring Boot](https://user-images.githubusercontent.com/66476979/234107043-8470fb3a-fcb6-4fe6-8284-86745947ee79.png)
 ![BootCamp TQI Kotlin](https://user-images.githubusercontent.com/66476979/231254178-b564f014-cba2-44fb-9c28-cd52b91fa902.png)
 ![Orientação a Objetos e Tipos de Classes na Prática com Kotlin](https://user-images.githubusercontent.com/66476979/231254233-51c317ef-b623-4f82-a5b5-51979dbeafd9.png)
 ![Tratamento de Exceções em Kotlin](https://user-images.githubusercontent.com/66476979/231254243-45ec5e79-f814-415b-9e6d-489c90ebcddb.png)
@@ -84,18 +82,7 @@ Imagem do meu [perfil do site Beecrowd](https://www.beecrowd.com.br/judge/pt/use
 ![Trabalhando com Collections Java](https://user-images.githubusercontent.com/66476979/212360387-b4ff7a20-c0e4-481a-817e-921da872e45a.png)
 ![Tratamento de Exceções em Java](https://user-images.githubusercontent.com/66476979/212361294-299e44e1-5e03-4ba1-82c6-48a5564ada96.png)
 
----
----
-
-![HTML Web Developer](https://user-images.githubusercontent.com/66476979/212326579-c0cdaed7-97a7-4859-9f34-c1708f45e7a4.png)
-![Desenvolvimento avançado com Javascript ES6](https://user-images.githubusercontent.com/66476979/212339496-53361e6f-5c7b-4e92-b6f7-f6db5820605f.png)
-![JavaScript ES6 Essencial](https://user-images.githubusercontent.com/66476979/212329324-714c0fb5-6fae-4fd7-a3fe-aba49b96d4ad.png)
-![Introdução a criação de websites com HTML5 e CSS3](https://user-images.githubusercontent.com/66476979/212340399-e8a4e318-fa60-47d9-a4b3-7d7eac7e3cff.png)
-
 --- 
 --- 
 
 ![Fundamentos para Desenvolvimento de Software por Microsoft e LinkedIn](https://user-images.githubusercontent.com/66476979/212327814-8e5be498-74f3-4cd3-8206-2479f360caf1.png)
-
-
-
