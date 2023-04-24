@@ -42,6 +42,10 @@ Imagem do meu [perfil do site Beecrowd](https://www.beecrowd.com.br/judge/pt/use
 ## CERTIFICADOS
 
 ![Java e Spring Boot](https://user-images.githubusercontent.com/66476979/234107043-8470fb3a-fcb6-4fe6-8284-86745947ee79.png)
+
+---
+---
+
 ![BootCamp TQI Kotlin](https://user-images.githubusercontent.com/66476979/231254178-b564f014-cba2-44fb-9c28-cd52b91fa902.png)
 ![Orientação a Objetos e Tipos de Classes na Prática com Kotlin](https://user-images.githubusercontent.com/66476979/231254233-51c317ef-b623-4f82-a5b5-51979dbeafd9.png)
 ![Tratamento de Exceções em Kotlin](https://user-images.githubusercontent.com/66476979/231254243-45ec5e79-f814-415b-9e6d-489c90ebcddb.png)
