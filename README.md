@@ -37,7 +37,7 @@
 ## EXERCÍCIOS DE PROGRAMAÇÃO
 Imagem do meu [perfil do site Beecrowd](https://www.beecrowd.com.br/judge/pt/users/statistics/560070) com as estatísticas relacionadas ao meu desempenho.
 
-![Estatisticas 2023-04-11 152625](https://user-images.githubusercontent.com/66476979/231255797-1c3bbc82-976c-44c5-b75c-2fa3c4f244cb.png)
+![image](https://github.com/marvinwanzuita/exercicios-kotlin-iniciante-beecrowd/assets/66476979/5676ee80-6fec-43b6-8555-82377b758db1)
 
 ## CERTIFICADOS
 
