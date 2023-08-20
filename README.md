@@ -4,7 +4,7 @@
 **LinkedIn:** https://www.linkedin.com/in/marvin-wanzuita/
   
 ## FORMAÇÃO
-- **Tecnologia em Análise e Desenvolvimento de Sistema** – Senac EAD – Incompleto
+- **Tecnologia em Análise e Desenvolvimento de Sistema** – Senac EAD (Andamento - 3º Semestre)
 
 ## EXPERIÊNCIA
 - **Impressor** – Molayne Artes – 03/2017 a 12/2020
